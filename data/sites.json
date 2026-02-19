@@ -36,6 +36,18 @@
           "url": "https://chat.openai.com",
           "description": "智能对话工具",
           "icon": "https://cdn.oaistatic.com/assets/favicon-o20kmmos.svg"
+        },
+        {
+          "title": "Claude",
+          "url": "https://claude.ai",
+          "description": "智能对话工具",
+          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png"
+        },
+        {
+          "title": "Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "智能对话工具",
+          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png"
         }
       ]
     },
@@ -58,6 +70,18 @@
           "url": "https://www.iyf.tv/",
           "description": "影视资源平台",
           "icon": "data:image/png;base64,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"
+        },
+        {
+          "title": "4K影视",
+          "url": "https://www.4kvm.net/",
+          "description": "4K影视资源平台",
+          "icon": "https://www.4kvm.net/wp-content/uploads/2020/07/c4b7f67bdfbd37.png"
+        },
+        {
+          "title": "独播库",
+          "url": "https://duboku.info/",
+          "description": "视频分享平台",
+          "icon": "https://duboku.info/template/mytheme/statics/img/logo.png"
         }
       ]
     }

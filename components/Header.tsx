@@ -29,7 +29,7 @@ export default function Header() {
           ))}
 
           <a
-            href="https://github.com/你的仓库地址"
+            href="https://github.com/dawnstaryrx/black-horse-nav"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-black transition duration-200"
